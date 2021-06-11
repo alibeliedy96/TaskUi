@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BMWTestApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="or">or</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="skip">Skip</string>
+    <string name="registration">Registration</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="log_out">Log out</string>
+    <string name="text">Night Mode</string>
+</resources>
